@@ -8,6 +8,6 @@ def roll
   
   for x in ary
   
-    return rand(ary)
+    return rand(x)
   
 end
