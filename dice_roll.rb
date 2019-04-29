@@ -4,6 +4,6 @@
 
 def roll
   
-  return rand(7)
+  return rand(6)
   
 end
