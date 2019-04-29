@@ -6,8 +6,6 @@ def roll
   
   ary = [1, 2, 3, 4, 5, 6]
   
-  for x in ary
-  
-    return rand(x)
+  return ary.sample
   
 end
